@@ -1,0 +1,9 @@
+gymnasium
+torch
+numpy
+matplotlib
+pandas
+scikit-learn
+streamlit
+imageio
+
